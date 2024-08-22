@@ -1,0 +1,7 @@
+[2024-08-21 18:33:24,212] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-08-21 18:33:24,217] 96 werkzeug - INFO -  * Debugger PIN: 686-267-060
+[2024-08-21 18:33:42,051] 8 root - INFO - We are testing logging
+[2024-08-21 18:33:42,051] 96 werkzeug - INFO - 192.168.1.4 - - [21/Aug/2024 18:33:42] "GET / HTTP/1.1" 200 -
+[2024-08-21 18:33:42,254] 8 root - INFO - We are testing logging
+[2024-08-21 18:33:42,254] 96 werkzeug - INFO - 192.168.1.4 - - [21/Aug/2024 18:33:42] "GET / HTTP/1.1" 200 -
+[2024-08-21 18:33:42,487] 96 werkzeug - INFO - 192.168.1.4 - - [21/Aug/2024 18:33:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

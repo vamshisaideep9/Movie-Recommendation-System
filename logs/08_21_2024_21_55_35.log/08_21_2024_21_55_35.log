@@ -1,0 +1,4 @@
+[2024-08-21 21:55:36,735] 20 root - INFO - Data Ingestion Process Started
+[2024-08-21 21:55:36,775] 23 root - INFO - Data reading Completed.
+[2024-08-21 21:55:36,813] 28 root - INFO - splitting data
+[2024-08-21 21:55:36,856] 34 root - INFO - Data Ingestion completed
